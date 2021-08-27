@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="rs.ac.bg.etf.pp1.ast.VisitorAdaptor"/>
+    <fullyQualifiedTypeName name="rs.ac.bg.etf.pp1.ast.OptArray"/>
+    <fullyQualifiedTypeName name="rs.ac.bg.etf.pp1.ast.ArrayBrackets"/>
+    <fullyQualifiedTypeName name="rs.ac.bg.etf.pp1.ast.VarDecl"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="rs.ac.bg.etf.pp1.ast.VarExtend"/>
+    <fullyQualifiedTypeName name="rs.ac.bg.etf.pp1.ast.VoidMethod"/>
+    <fullyQualifiedTypeName name="rs.ac.bg.etf.pp1.ast.ExprAddopTerm"/>
+    <fullyQualifiedTypeName name="rs.ac.bg.etf.pp1.ast.WithOptionalExpr"/>
+    <fullyQualifiedTypeName name="rs.ac.bg.etf.pp1.SemanticAnalyzer"/>
+    <fullyQualifiedTypeName name="com.sun.javafx.css.Rule"/>
+    <fullyQualifiedTypeName name="rs.ac.bg.etf.pp1.RuleVisitor"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="rs.ac.bg.etf.pp1.CodeGenerator"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+    <fullyQualifiedTypeName name="rs.ac.bg.etf.pp1.ast.PrintStatement"/>
+    <fullyQualifiedTypeName name="rs.etf.pp1.symboltable.Tab"/>
+    <fullyQualifiedTypeName name="rs.ac.bg.etf.pp1.CounterVisitor.VarCounter"/>
+    <fullyQualifiedTypeName name="rs.ac.bg.etf.pp1.CounterVisitor.FormParamCounter"/>
+    <fullyQualifiedTypeName name="rs.ac.bg.etf.pp1.ast.PrintExpr"/>
+    <fullyQualifiedTypeName name="rs.ac.bg.etf.pp1.ast.DesignatorIncrement"/>
+    <fullyQualifiedTypeName name="rs.ac.bg.etf.pp1.ast.DesignatorDecrement"/>
+    <fullyQualifiedTypeName name="rs.ac.bg.etf.pp1.ast.SyntaxNode"/>
+    <fullyQualifiedTypeName name="rs.ac.bg.etf.pp1.ast.DesignatorAssign"/>
+    <fullyQualifiedTypeName name="rs.ac.bg.etf.pp1.ast.FactorDeclaration"/>
+    <fullyQualifiedTypeName name="rs.ac.bg.etf.pp1.ast.ArrayDesignator"/>
+    <fullyQualifiedTypeName name="rs.etf.pp1.symboltable.concepts.Struct"/>
+    <fullyQualifiedTypeName name="java.util.Stack"/>
+    <fullyQualifiedTypeName name="com.sun.java.util.jar.pack.Fixups.Fixup"/>
+    <fullyQualifiedTypeName name="rs.etf.pp1.mj.runtime.Code"/>
+    <fullyQualifiedTypeName name="rs.etf.pp1.symboltable.concepts.Obj"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="rs.ac.bg.etf.pp1.test.Compiler"/>
+    <fullyQualifiedTypeName name="rs.ac.bg.etf.pp1.CompilerImplementation"/>
+    <fullyQualifiedTypeName name="rs.ac.bg.etf.pp1.test.CompilerError"/>
+    <fullyQualifiedTypeName name="rs.ac.bg.etf.pp1.test.CompilerError.CompilerErrorType"/>
+</qualifiedTypeNameHistroy>

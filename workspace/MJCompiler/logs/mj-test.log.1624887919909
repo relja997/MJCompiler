@@ -1,0 +1,325 @@
+INFO  15:40:56,130 - Compiling source file: C:\Users\Relja\Desktop\ETF\4.godina\PP\PP Projekat\workspace\MJCompiler\test\program.mj
+INFO  15:40:56,236 - #2 program
+INFO  15:40:56,236 - #5 MJProgram
+INFO  15:40:56,236 - #6 const
+INFO  15:40:56,238 - #5 int
+INFO  15:40:56,238 - #5 x
+INFO  15:40:56,239 - #7 =
+INFO  15:40:56,239 - #10 4
+INFO  15:40:56,239 - #9 ,
+INFO  15:40:56,239 - #5 nula
+INFO  15:40:56,239 - #7 =
+INFO  15:40:56,239 - #10 0
+INFO  15:40:56,239 - #9 ,
+INFO  15:40:56,239 - #5 z
+INFO  15:40:56,239 - #7 =
+INFO  15:40:56,239 - #10 5
+INFO  15:40:56,239 - #9 ,
+INFO  15:40:56,239 - #5 tri
+INFO  15:40:56,240 - #7 =
+INFO  15:40:56,240 - #10 3
+INFO  15:40:56,240 - #9 ,
+INFO  15:40:56,240 - #5 jedan
+INFO  15:40:56,267 - #7 =
+INFO  15:40:56,267 - #10 1
+INFO  15:40:56,267 - #8 ;
+INFO  15:40:56,269 - #5 int
+INFO  15:40:56,269 - #5 a
+INFO  15:40:56,269 - #9 ,
+INFO  15:40:56,271 - #5 b
+INFO  15:40:56,271 - #9 ,
+INFO  15:40:56,271 - #5 c
+INFO  15:40:56,271 - #9 ,
+INFO  15:40:56,271 - #5 d
+INFO  15:40:56,271 - #8 ;
+INFO  15:40:56,272 - #3 {
+INFO  15:40:56,272 - #19 void
+INFO  15:40:56,273 - #5 kes
+INFO  15:40:56,273 - #17 (
+INFO  15:40:56,274 - #18 )
+INFO  15:40:56,275 - #3 {
+INFO  15:40:56,275 - #29 print
+INFO  15:40:56,276 - #17 (
+INFO  15:40:56,276 - #10 3
+INFO  15:40:56,276 - #18 )
+INFO  15:40:56,276 - #8 ;
+INFO  15:40:56,276 - #29 print
+INFO  15:40:56,277 - #17 (
+INFO  15:40:56,277 - #11 c
+INFO  15:40:56,277 - #18 )
+INFO  15:40:56,277 - #8 ;
+INFO  15:40:56,277 - #4 }
+INFO  15:40:56,277 - #19 void
+INFO  15:40:56,281 - #5 main
+INFO  15:40:56,281 - #17 (
+INFO  15:40:56,281 - #18 )
+INFO  15:40:56,281 - #5 int
+INFO  15:40:56,281 - #5 bodovi
+INFO  15:40:56,281 - #8 ;
+INFO  15:40:56,281 - #5 int
+INFO  15:40:56,281 - #5 niz
+INFO  15:40:56,281 - #13 [
+INFO  15:40:56,282 - #14 ]
+INFO  15:40:56,282 - #8 ;
+INFO  15:40:56,282 - #5 char
+INFO  15:40:56,283 - #5 ch
+INFO  15:40:56,283 - #13 [
+INFO  15:40:56,283 - #14 ]
+INFO  15:40:56,283 - #8 ;
+INFO  15:40:56,283 - #5 bool
+INFO  15:40:56,283 - #5 istinitost
+INFO  15:40:56,283 - #13 [
+INFO  15:40:56,283 - #14 ]
+INFO  15:40:56,283 - #8 ;
+INFO  15:40:56,283 - #3 {
+INFO  15:40:56,283 - #28 read
+INFO  15:40:56,283 - #17 (
+INFO  15:40:56,283 - #5 a
+INFO  15:40:56,283 - #18 )
+INFO  15:40:56,284 - #8 ;
+INFO  15:40:56,284 - #29 print
+INFO  15:40:56,284 - #17 (
+INFO  15:40:56,284 - #5 a
+INFO  15:40:56,284 - #18 )
+INFO  15:40:56,284 - #8 ;
+INFO  15:40:56,284 - #4 }
+INFO  15:40:56,284 - #4 }
+INFO  15:40:56,286 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  DeclList(
+    DeclList(
+      NoDeclarations(
+      ) [NoDeclarations]
+      ConstDeclaration(
+        NumCDecl(
+          Type(
+           int
+          ) [Type]
+         x
+         4
+          NumCDeclExtend(
+           nula
+           0
+            NumCDeclExtend(
+             z
+             5
+              NumCDeclExtend(
+               tri
+               3
+                NumCDeclExtend(
+                 jedan
+                 1
+                  NoMoreNumConst(
+                  ) [NoMoreNumConst]
+                ) [NumCDeclExtend]
+              ) [NumCDeclExtend]
+            ) [NumCDeclExtend]
+          ) [NumCDeclExtend]
+        ) [NumCDecl]
+      ) [ConstDeclaration]
+    ) [DeclList]
+    VarDeclarationList(
+      VarDeclaration(
+        Type(
+         int
+        ) [Type]
+       a
+        NoArrayBrackets(
+        ) [NoArrayBrackets]
+        VarExtension(
+         b
+          NoArrayBrackets(
+          ) [NoArrayBrackets]
+          VarExtension(
+           c
+            NoArrayBrackets(
+            ) [NoArrayBrackets]
+            VarExtension(
+             d
+              NoArrayBrackets(
+              ) [NoArrayBrackets]
+              NoVarExtend(
+              ) [NoVarExtend]
+            ) [VarExtension]
+          ) [VarExtension]
+        ) [VarExtension]
+      ) [VarDeclaration]
+    ) [VarDeclarationList]
+  ) [DeclList]
+  MethodDeclarationList(
+    MethodDeclarationList(
+      NoMethodDecl(
+      ) [NoMethodDecl]
+      MethodDeclaration(
+        MethodTypeName(
+          VoidMethod(
+          ) [VoidMethod]
+         kes
+        ) [MethodTypeName]
+        NoFormParams(
+        ) [NoFormParams]
+        NoVarDeclList(
+        ) [NoVarDeclList]
+        StatementLst(
+          StatementLst(
+            NoStatementList(
+            ) [NoStatementList]
+            MatchedStmt(
+              PrintStatement(
+                PrintExprOnly(
+                  ExprDeclAddop(
+                    Expr1Positive(
+                      SingleFactor(
+                        FactorNUMC(
+                         3
+                        ) [FactorNUMC]
+                      ) [SingleFactor]
+                    ) [Expr1Positive]
+                  ) [ExprDeclAddop]
+                ) [PrintExprOnly]
+              ) [PrintStatement]
+            ) [MatchedStmt]
+          ) [StatementLst]
+          MatchedStmt(
+            PrintStatement(
+              PrintExprOnly(
+                ExprDeclAddop(
+                  Expr1Positive(
+                    SingleFactor(
+                      FactorCHARC(
+                       c
+                      ) [FactorCHARC]
+                    ) [SingleFactor]
+                  ) [Expr1Positive]
+                ) [ExprDeclAddop]
+              ) [PrintExprOnly]
+            ) [PrintStatement]
+          ) [MatchedStmt]
+        ) [StatementLst]
+      ) [MethodDeclaration]
+    ) [MethodDeclarationList]
+    MethodDeclaration(
+      MethodTypeName(
+        VoidMethod(
+        ) [VoidMethod]
+       main
+      ) [MethodTypeName]
+      NoFormParams(
+      ) [NoFormParams]
+      VarDeclaratList(
+        VarDeclaratList(
+          VarDeclaratList(
+            VarDeclaratList(
+              NoVarDeclList(
+              ) [NoVarDeclList]
+              VarDeclaration(
+                Type(
+                 int
+                ) [Type]
+               bodovi
+                NoArrayBrackets(
+                ) [NoArrayBrackets]
+                NoVarExtend(
+                ) [NoVarExtend]
+              ) [VarDeclaration]
+            ) [VarDeclaratList]
+            VarDeclaration(
+              Type(
+               int
+              ) [Type]
+             niz
+              ArrayBrackets(
+              ) [ArrayBrackets]
+              NoVarExtend(
+              ) [NoVarExtend]
+            ) [VarDeclaration]
+          ) [VarDeclaratList]
+          VarDeclaration(
+            Type(
+             char
+            ) [Type]
+           ch
+            ArrayBrackets(
+            ) [ArrayBrackets]
+            NoVarExtend(
+            ) [NoVarExtend]
+          ) [VarDeclaration]
+        ) [VarDeclaratList]
+        VarDeclaration(
+          Type(
+           bool
+          ) [Type]
+         istinitost
+          ArrayBrackets(
+          ) [ArrayBrackets]
+          NoVarExtend(
+          ) [NoVarExtend]
+        ) [VarDeclaration]
+      ) [VarDeclaratList]
+      StatementLst(
+        StatementLst(
+          NoStatementList(
+          ) [NoStatementList]
+          MatchedStmt(
+            ReadStatement(
+              DesignatorDeclaration(
+               a
+              ) [DesignatorDeclaration]
+            ) [ReadStatement]
+          ) [MatchedStmt]
+        ) [StatementLst]
+        MatchedStmt(
+          PrintStatement(
+            PrintExprOnly(
+              ExprDeclAddop(
+                Expr1Positive(
+                  SingleFactor(
+                    FactorDeclaration(
+                      DesignatorDeclaration(
+                       a
+                      ) [DesignatorDeclaration]
+                    ) [FactorDeclaration]
+                  ) [SingleFactor]
+                ) [Expr1Positive]
+              ) [ExprDeclAddop]
+            ) [PrintExprOnly]
+          ) [PrintStatement]
+        ) [MatchedStmt]
+      ) [StatementLst]
+    ) [MethodDeclaration]
+  ) [MethodDeclarationList]
+) [Program]
+INFO  15:40:56,286 - ===================================
+INFO  15:40:56,302 - ProgramName obidjeno i scope otvoren!
+INFO  15:40:56,302 - Konstanta jedan = 1 deklarisana na liniji 2 na liniji 2
+INFO  15:40:56,302 - Konstanta tri = 3 deklarisana na liniji 2 na liniji 2
+INFO  15:40:56,302 - Konstanta z = 5 deklarisana na liniji 2 na liniji 2
+INFO  15:40:56,303 - Konstanta nula = 0 deklarisana na liniji 2 na liniji 2
+INFO  15:40:56,303 - Konstanta x = 4 deklarisana na liniji 2 na liniji 2
+INFO  15:40:56,303 - Deklarisana promjenljiva d na liniji 3
+INFO  15:40:56,303 - Deklarisana promjenljiva c na liniji 3
+INFO  15:40:56,303 - Deklarisana promjenljiva b na liniji 3
+INFO  15:40:56,303 - Deklarisana promjenljiva a na liniji 3
+INFO  15:40:56,303 - VarDecl cvor posjecen
+INFO  15:40:56,303 - Funkcija kes se obradjuje na liniji 5
+INFO  15:40:56,303 - Tip print izraza je: 1
+INFO  15:40:56,303 - Print metoda posjecena na liniji 6 na liniji 6
+INFO  15:40:56,303 - Tip print izraza je: 2
+INFO  15:40:56,303 - Print metoda posjecena na liniji 7 na liniji 7
+INFO  15:40:56,303 - Funkcija main se obradjuje na liniji 10
+INFO  15:40:56,303 - Deklarisana promjenljiva bodovi na liniji 11
+INFO  15:40:56,303 - VarDecl cvor posjecen
+INFO  15:40:56,303 - Deklarisan niz niz[] na liniji 12
+INFO  15:40:56,304 - VarDecl cvor posjecen
+INFO  15:40:56,304 - Deklarisan niz ch[] na liniji 13
+INFO  15:40:56,304 - VarDecl cvor posjecen
+INFO  15:40:56,304 - Deklarisan niz istinitost[] na liniji 14
+INFO  15:40:56,304 - VarDecl cvor posjecen
+INFO  15:40:56,304 - Read odradjen:  na liniji 16
+INFO  15:40:56,304 - Tip print izraza je: 1
+INFO  15:40:56,304 - Print metoda posjecena na liniji 17 na liniji 17
+INFO  15:40:56,304 - Program obidjen, simboli uvezani i scope zatvoren! Ukupno uvezanih simbola: 4
+INFO  15:40:56,304 - ===================================
+INFO  15:40:56,311 - Parsiranje uspjesno zavrseno!

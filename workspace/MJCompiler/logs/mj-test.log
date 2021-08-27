@@ -1,0 +1,1959 @@
+INFO  16:18:17,775 - Compiling source file: C:\Users\Relja\Desktop\ETF\4.godina\PP\PP Projekat\workspace\MJCompiler\test\program.mj
+INFO  16:18:18,751 - #2 program
+INFO  16:18:18,751 - #5 MJProgram
+INFO  16:18:18,752 - #6 const
+INFO  16:18:18,775 - #5 int
+INFO  16:18:18,775 - #5 x
+INFO  16:18:18,790 - #7 =
+INFO  16:18:18,790 - #10 4
+INFO  16:18:18,790 - #9 ,
+INFO  16:18:18,790 - #5 nula
+INFO  16:18:18,790 - #7 =
+INFO  16:18:18,790 - #10 0
+INFO  16:18:18,790 - #9 ,
+INFO  16:18:18,790 - #5 z
+INFO  16:18:18,790 - #7 =
+INFO  16:18:18,790 - #10 5
+INFO  16:18:18,790 - #9 ,
+INFO  16:18:18,790 - #5 tri
+INFO  16:18:18,790 - #7 =
+INFO  16:18:18,791 - #10 3
+INFO  16:18:18,791 - #9 ,
+INFO  16:18:18,791 - #5 jedan
+INFO  16:18:18,803 - #7 =
+INFO  16:18:18,803 - #10 1
+INFO  16:18:18,803 - #8 ;
+INFO  16:18:18,814 - #5 int
+INFO  16:18:18,815 - #5 a
+INFO  16:18:18,815 - #9 ,
+INFO  16:18:18,837 - #5 b
+INFO  16:18:18,837 - #9 ,
+INFO  16:18:18,837 - #5 c
+INFO  16:18:18,837 - #9 ,
+INFO  16:18:18,837 - #5 d
+INFO  16:18:18,837 - #8 ;
+INFO  16:18:18,847 - #3 {
+INFO  16:18:18,847 - #19 void
+INFO  16:18:18,857 - #5 kes
+INFO  16:18:18,864 - #17 (
+INFO  16:18:18,878 - #18 )
+INFO  16:18:18,883 - #3 {
+INFO  16:18:18,891 - #29 print
+INFO  16:18:18,894 - #17 (
+INFO  16:18:18,894 - #10 3
+INFO  16:18:18,894 - #18 )
+INFO  16:18:18,895 - #8 ;
+INFO  16:18:18,895 - #29 print
+INFO  16:18:18,895 - #17 (
+INFO  16:18:18,895 - #11 c
+INFO  16:18:18,895 - #18 )
+INFO  16:18:18,895 - #8 ;
+INFO  16:18:18,895 - #4 }
+INFO  16:18:18,895 - #19 void
+INFO  16:18:18,899 - #5 main
+INFO  16:18:18,899 - #17 (
+INFO  16:18:18,899 - #18 )
+INFO  16:18:18,899 - #5 char
+INFO  16:18:18,899 - #5 i
+INFO  16:18:18,899 - #8 ;
+INFO  16:18:18,899 - #5 int
+INFO  16:18:18,899 - #5 bodovi
+INFO  16:18:18,899 - #8 ;
+INFO  16:18:18,899 - #5 int
+INFO  16:18:18,899 - #5 niz
+INFO  16:18:18,900 - #13 [
+INFO  16:18:18,900 - #14 ]
+INFO  16:18:18,900 - #8 ;
+INFO  16:18:18,912 - #5 char
+INFO  16:18:18,912 - #5 ch
+INFO  16:18:18,912 - #13 [
+INFO  16:18:18,912 - #14 ]
+INFO  16:18:18,912 - #8 ;
+INFO  16:18:18,912 - #5 bool
+INFO  16:18:18,912 - #5 istinitost
+INFO  16:18:18,912 - #13 [
+INFO  16:18:18,912 - #14 ]
+INFO  16:18:18,912 - #8 ;
+INFO  16:18:18,912 - #3 {
+INFO  16:18:18,912 - #29 print
+INFO  16:18:18,912 - #17 (
+INFO  16:18:18,912 - #5 i
+INFO  16:18:18,912 - #18 )
+INFO  16:18:18,913 - #8 ;
+INFO  16:18:18,913 - #5 a
+INFO  16:18:18,913 - #7 =
+INFO  16:18:18,913 - #38 -
+INFO  16:18:18,926 - #10 5
+INFO  16:18:18,926 - #8 ;
+INFO  16:18:18,926 - #5 b
+INFO  16:18:18,926 - #7 =
+INFO  16:18:18,926 - #10 5
+INFO  16:18:18,926 - #8 ;
+INFO  16:18:18,926 - #21 if
+INFO  16:18:18,926 - #17 (
+INFO  16:18:18,926 - #12 false
+INFO  16:18:18,926 - #35 ||
+INFO  16:18:18,941 - #5 a
+INFO  16:18:18,957 - #43 >
+INFO  16:18:18,957 - #5 b
+INFO  16:18:18,978 - #36 &&
+INFO  16:18:18,979 - #12 false
+INFO  16:18:18,979 - #36 &&
+INFO  16:18:18,979 - #10 5
+INFO  16:18:18,979 - #43 >
+INFO  16:18:18,979 - #10 2
+INFO  16:18:18,979 - #35 ||
+INFO  16:18:18,979 - #12 true
+INFO  16:18:18,979 - #18 )
+INFO  16:18:18,979 - #29 print
+INFO  16:18:18,980 - #17 (
+INFO  16:18:18,980 - #10 9
+INFO  16:18:18,980 - #18 )
+INFO  16:18:18,980 - #8 ;
+INFO  16:18:18,980 - #30 else
+INFO  16:18:18,980 - #29 print
+INFO  16:18:18,997 - #17 (
+INFO  16:18:18,997 - #10 4
+INFO  16:18:18,998 - #18 )
+INFO  16:18:18,998 - #8 ;
+INFO  16:18:18,998 - #5 bodovi
+INFO  16:18:19,000 - #7 =
+INFO  16:18:19,000 - #10 6
+INFO  16:18:19,000 - #8 ;
+INFO  16:18:19,000 - #21 if
+INFO  16:18:19,000 - #17 (
+INFO  16:18:19,000 - #5 tri
+INFO  16:18:19,000 - #48 *
+INFO  16:18:19,000 - #10 0
+INFO  16:18:19,017 - #45 <
+INFO  16:18:19,017 - #5 a
+INFO  16:18:19,029 - #36 &&
+INFO  16:18:19,029 - #5 b
+INFO  16:18:19,029 - #43 >
+INFO  16:18:19,029 - #10 4
+INFO  16:18:19,029 - #35 ||
+INFO  16:18:19,029 - #12 false
+INFO  16:18:19,029 - #35 ||
+INFO  16:18:19,029 - #5 jedan
+INFO  16:18:19,029 - #43 >
+INFO  16:18:19,029 - #5 tri
+INFO  16:18:19,029 - #18 )
+INFO  16:18:19,029 - #29 print
+INFO  16:18:19,029 - #17 (
+INFO  16:18:19,029 - #11 c
+INFO  16:18:19,029 - #18 )
+INFO  16:18:19,029 - #8 ;
+INFO  16:18:19,029 - #5 a
+INFO  16:18:19,030 - #33 ++
+INFO  16:18:19,030 - #8 ;
+INFO  16:18:19,030 - #5 b
+INFO  16:18:19,030 - #34 --
+INFO  16:18:19,030 - #8 ;
+INFO  16:18:19,030 - #5 b
+INFO  16:18:19,030 - #34 --
+INFO  16:18:19,030 - #8 ;
+INFO  16:18:19,030 - #5 c
+INFO  16:18:19,030 - #7 =
+INFO  16:18:19,030 - #5 a
+INFO  16:18:19,030 - #47 +
+INFO  16:18:19,030 - #5 b
+INFO  16:18:19,053 - #8 ;
+INFO  16:18:19,053 - #5 d
+INFO  16:18:19,053 - #7 =
+INFO  16:18:19,053 - #5 a
+INFO  16:18:19,053 - #48 *
+INFO  16:18:19,053 - #5 b
+INFO  16:18:19,053 - #38 -
+INFO  16:18:19,053 - #5 c
+INFO  16:18:19,068 - #47 +
+INFO  16:18:19,068 - #10 3
+INFO  16:18:19,069 - #8 ;
+INFO  16:18:19,069 - #5 bodovi
+INFO  16:18:19,069 - #7 =
+INFO  16:18:19,069 - #5 bodovi
+INFO  16:18:19,069 - #48 *
+INFO  16:18:19,069 - #17 (
+INFO  16:18:19,069 - #5 z
+INFO  16:18:19,069 - #38 -
+INFO  16:18:19,069 - #5 tri
+INFO  16:18:19,069 - #48 *
+INFO  16:18:19,069 - #10 1
+INFO  16:18:19,069 - #18 )
+INFO  16:18:19,069 - #8 ;
+INFO  16:18:19,069 - #29 print
+INFO  16:18:19,069 - #17 (
+INFO  16:18:19,069 - #5 bodovi
+INFO  16:18:19,069 - #18 )
+INFO  16:18:19,069 - #8 ;
+INFO  16:18:19,069 - #29 print
+INFO  16:18:19,069 - #17 (
+INFO  16:18:19,069 - #5 a
+INFO  16:18:19,069 - #18 )
+INFO  16:18:19,069 - #8 ;
+INFO  16:18:19,069 - #29 print
+INFO  16:18:19,070 - #17 (
+INFO  16:18:19,070 - #5 b
+INFO  16:18:19,070 - #18 )
+INFO  16:18:19,070 - #8 ;
+INFO  16:18:19,070 - #29 print
+INFO  16:18:19,070 - #17 (
+INFO  16:18:19,070 - #5 c
+INFO  16:18:19,070 - #18 )
+INFO  16:18:19,070 - #8 ;
+INFO  16:18:19,070 - #29 print
+INFO  16:18:19,070 - #17 (
+INFO  16:18:19,070 - #5 d
+INFO  16:18:19,070 - #18 )
+INFO  16:18:19,070 - #8 ;
+INFO  16:18:19,070 - #29 print
+INFO  16:18:19,070 - #17 (
+INFO  16:18:19,070 - #5 a
+INFO  16:18:19,070 - #47 +
+INFO  16:18:19,070 - #5 b
+INFO  16:18:19,070 - #48 *
+INFO  16:18:19,070 - #5 c
+INFO  16:18:19,070 - #38 -
+INFO  16:18:19,070 - #5 d
+INFO  16:18:19,070 - #18 )
+INFO  16:18:19,070 - #8 ;
+INFO  16:18:19,070 - #5 niz
+INFO  16:18:19,070 - #7 =
+INFO  16:18:19,070 - #39 new
+INFO  16:18:19,070 - #5 int
+INFO  16:18:19,070 - #13 [
+INFO  16:18:19,070 - #10 5
+INFO  16:18:19,070 - #14 ]
+INFO  16:18:19,070 - #8 ;
+INFO  16:18:19,070 - #5 ch
+INFO  16:18:19,071 - #7 =
+INFO  16:18:19,071 - #39 new
+INFO  16:18:19,071 - #5 char
+INFO  16:18:19,071 - #13 [
+INFO  16:18:19,071 - #10 3
+INFO  16:18:19,071 - #14 ]
+INFO  16:18:19,071 - #8 ;
+INFO  16:18:19,071 - #5 istinitost
+INFO  16:18:19,071 - #7 =
+INFO  16:18:19,071 - #39 new
+INFO  16:18:19,071 - #5 bool
+INFO  16:18:19,071 - #13 [
+INFO  16:18:19,071 - #10 3
+INFO  16:18:19,071 - #14 ]
+INFO  16:18:19,071 - #8 ;
+INFO  16:18:19,071 - #5 niz
+INFO  16:18:19,071 - #13 [
+INFO  16:18:19,085 - #5 nula
+INFO  16:18:19,085 - #14 ]
+INFO  16:18:19,086 - #7 =
+INFO  16:18:19,086 - #5 bodovi
+INFO  16:18:19,086 - #8 ;
+INFO  16:18:19,086 - #5 niz
+INFO  16:18:19,087 - #13 [
+INFO  16:18:19,087 - #10 1
+INFO  16:18:19,087 - #14 ]
+INFO  16:18:19,087 - #7 =
+INFO  16:18:19,087 - #10 3
+INFO  16:18:19,087 - #8 ;
+INFO  16:18:19,087 - #5 niz
+INFO  16:18:19,087 - #13 [
+INFO  16:18:19,087 - #5 tri
+INFO  16:18:19,087 - #14 ]
+INFO  16:18:19,087 - #7 =
+INFO  16:18:19,087 - #5 niz
+INFO  16:18:19,087 - #13 [
+INFO  16:18:19,087 - #10 1
+INFO  16:18:19,087 - #14 ]
+INFO  16:18:19,087 - #49 /
+INFO  16:18:19,088 - #5 tri
+INFO  16:18:19,092 - #8 ;
+INFO  16:18:19,092 - #5 niz
+INFO  16:18:19,092 - #13 [
+INFO  16:18:19,092 - #5 niz
+INFO  16:18:19,092 - #13 [
+INFO  16:18:19,092 - #5 jedan
+INFO  16:18:19,092 - #14 ]
+INFO  16:18:19,092 - #14 ]
+INFO  16:18:19,093 - #33 ++
+INFO  16:18:19,093 - #8 ;
+INFO  16:18:19,093 - #5 niz
+INFO  16:18:19,093 - #13 [
+INFO  16:18:19,093 - #10 1
+INFO  16:18:19,093 - #14 ]
+INFO  16:18:19,093 - #33 ++
+INFO  16:18:19,093 - #8 ;
+INFO  16:18:19,093 - #5 ch
+INFO  16:18:19,093 - #13 [
+INFO  16:18:19,093 - #10 0
+INFO  16:18:19,093 - #14 ]
+INFO  16:18:19,093 - #7 =
+INFO  16:18:19,093 - #11 p
+INFO  16:18:19,093 - #8 ;
+INFO  16:18:19,093 - #5 istinitost
+INFO  16:18:19,093 - #13 [
+INFO  16:18:19,093 - #10 0
+INFO  16:18:19,093 - #14 ]
+INFO  16:18:19,093 - #7 =
+INFO  16:18:19,093 - #12 true
+INFO  16:18:19,093 - #8 ;
+INFO  16:18:19,093 - #5 istinitost
+INFO  16:18:19,093 - #13 [
+INFO  16:18:19,093 - #10 1
+INFO  16:18:19,093 - #14 ]
+INFO  16:18:19,093 - #7 =
+INFO  16:18:19,093 - #12 false
+INFO  16:18:19,093 - #8 ;
+INFO  16:18:19,093 - #29 print
+INFO  16:18:19,093 - #17 (
+INFO  16:18:19,093 - #5 niz
+INFO  16:18:19,093 - #13 [
+INFO  16:18:19,093 - #10 1
+INFO  16:18:19,093 - #14 ]
+INFO  16:18:19,093 - #18 )
+INFO  16:18:19,093 - #8 ;
+INFO  16:18:19,093 - #29 print
+INFO  16:18:19,093 - #17 (
+INFO  16:18:19,093 - #5 ch
+INFO  16:18:19,093 - #13 [
+INFO  16:18:19,093 - #10 0
+INFO  16:18:19,093 - #14 ]
+INFO  16:18:19,093 - #18 )
+INFO  16:18:19,093 - #8 ;
+INFO  16:18:19,093 - #29 print
+INFO  16:18:19,093 - #17 (
+INFO  16:18:19,093 - #5 niz
+INFO  16:18:19,093 - #13 [
+INFO  16:18:19,093 - #5 tri
+INFO  16:18:19,093 - #14 ]
+INFO  16:18:19,093 - #18 )
+INFO  16:18:19,093 - #8 ;
+INFO  16:18:19,093 - #29 print
+INFO  16:18:19,093 - #17 (
+INFO  16:18:19,093 - #5 niz
+INFO  16:18:19,093 - #13 [
+INFO  16:18:19,093 - #5 niz
+INFO  16:18:19,093 - #13 [
+INFO  16:18:19,093 - #5 nula
+INFO  16:18:19,093 - #14 ]
+INFO  16:18:19,093 - #49 /
+INFO  16:18:19,093 - #10 5
+INFO  16:18:19,093 - #14 ]
+INFO  16:18:19,093 - #18 )
+INFO  16:18:19,093 - #8 ;
+INFO  16:18:19,093 - #29 print
+INFO  16:18:19,093 - #17 (
+INFO  16:18:19,093 - #5 istinitost
+INFO  16:18:19,093 - #13 [
+INFO  16:18:19,093 - #5 nula
+INFO  16:18:19,093 - #14 ]
+INFO  16:18:19,093 - #18 )
+INFO  16:18:19,093 - #8 ;
+INFO  16:18:19,093 - #29 print
+INFO  16:18:19,093 - #17 (
+INFO  16:18:19,093 - #5 istinitost
+INFO  16:18:19,093 - #13 [
+INFO  16:18:19,094 - #5 jedan
+INFO  16:18:19,094 - #48 *
+INFO  16:18:19,094 - #10 4
+INFO  16:18:19,094 - #50 %
+INFO  16:18:19,094 - #10 3
+INFO  16:18:19,095 - #14 ]
+INFO  16:18:19,095 - #18 )
+INFO  16:18:19,095 - #8 ;
+INFO  16:18:19,095 - #4 }
+INFO  16:18:19,095 - #4 }
+INFO  16:18:19,117 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  DeclList(
+    DeclList(
+      NoDeclarations(
+      ) [NoDeclarations]
+      ConstDeclaration(
+        NumCDecl(
+          Type(
+           int
+          ) [Type]
+         x
+         4
+          NumCDeclExtend(
+           nula
+           0
+            NumCDeclExtend(
+             z
+             5
+              NumCDeclExtend(
+               tri
+               3
+                NumCDeclExtend(
+                 jedan
+                 1
+                  NoMoreNumConst(
+                  ) [NoMoreNumConst]
+                ) [NumCDeclExtend]
+              ) [NumCDeclExtend]
+            ) [NumCDeclExtend]
+          ) [NumCDeclExtend]
+        ) [NumCDecl]
+      ) [ConstDeclaration]
+    ) [DeclList]
+    VarDeclarationList(
+      VarDeclaration(
+        Type(
+         int
+        ) [Type]
+       a
+        NoArrayBrackets(
+        ) [NoArrayBrackets]
+        VarExtension(
+         b
+          NoArrayBrackets(
+          ) [NoArrayBrackets]
+          VarExtension(
+           c
+            NoArrayBrackets(
+            ) [NoArrayBrackets]
+            VarExtension(
+             d
+              NoArrayBrackets(
+              ) [NoArrayBrackets]
+              NoVarExtend(
+              ) [NoVarExtend]
+            ) [VarExtension]
+          ) [VarExtension]
+        ) [VarExtension]
+      ) [VarDeclaration]
+    ) [VarDeclarationList]
+  ) [DeclList]
+  MethodDeclarationList(
+    MethodDeclarationList(
+      NoMethodDecl(
+      ) [NoMethodDecl]
+      MethodDeclaration(
+        MethodTypeName(
+          VoidMethod(
+          ) [VoidMethod]
+         kes
+        ) [MethodTypeName]
+        NoFormParams(
+        ) [NoFormParams]
+        NoVarDeclList(
+        ) [NoVarDeclList]
+        StatementLst(
+          StatementLst(
+            NoStatementList(
+            ) [NoStatementList]
+            MatchedStmt(
+              PrintStatement(
+                PrintExprOnly(
+                  ExprDeclAddop(
+                    Expr1Positive(
+                      SingleFactor(
+                        FactorNUMC(
+                         3
+                        ) [FactorNUMC]
+                      ) [SingleFactor]
+                    ) [Expr1Positive]
+                  ) [ExprDeclAddop]
+                ) [PrintExprOnly]
+              ) [PrintStatement]
+            ) [MatchedStmt]
+          ) [StatementLst]
+          MatchedStmt(
+            PrintStatement(
+              PrintExprOnly(
+                ExprDeclAddop(
+                  Expr1Positive(
+                    SingleFactor(
+                      FactorCHARC(
+                       c
+                      ) [FactorCHARC]
+                    ) [SingleFactor]
+                  ) [Expr1Positive]
+                ) [ExprDeclAddop]
+              ) [PrintExprOnly]
+            ) [PrintStatement]
+          ) [MatchedStmt]
+        ) [StatementLst]
+      ) [MethodDeclaration]
+    ) [MethodDeclarationList]
+    MethodDeclaration(
+      MethodTypeName(
+        VoidMethod(
+        ) [VoidMethod]
+       main
+      ) [MethodTypeName]
+      NoFormParams(
+      ) [NoFormParams]
+      VarDeclaratList(
+        VarDeclaratList(
+          VarDeclaratList(
+            VarDeclaratList(
+              VarDeclaratList(
+                NoVarDeclList(
+                ) [NoVarDeclList]
+                VarDeclaration(
+                  Type(
+                   char
+                  ) [Type]
+                 i
+                  NoArrayBrackets(
+                  ) [NoArrayBrackets]
+                  NoVarExtend(
+                  ) [NoVarExtend]
+                ) [VarDeclaration]
+              ) [VarDeclaratList]
+              VarDeclaration(
+                Type(
+                 int
+                ) [Type]
+               bodovi
+                NoArrayBrackets(
+                ) [NoArrayBrackets]
+                NoVarExtend(
+                ) [NoVarExtend]
+              ) [VarDeclaration]
+            ) [VarDeclaratList]
+            VarDeclaration(
+              Type(
+               int
+              ) [Type]
+             niz
+              ArrayBrackets(
+              ) [ArrayBrackets]
+              NoVarExtend(
+              ) [NoVarExtend]
+            ) [VarDeclaration]
+          ) [VarDeclaratList]
+          VarDeclaration(
+            Type(
+             char
+            ) [Type]
+           ch
+            ArrayBrackets(
+            ) [ArrayBrackets]
+            NoVarExtend(
+            ) [NoVarExtend]
+          ) [VarDeclaration]
+        ) [VarDeclaratList]
+        VarDeclaration(
+          Type(
+           bool
+          ) [Type]
+         istinitost
+          ArrayBrackets(
+          ) [ArrayBrackets]
+          NoVarExtend(
+          ) [NoVarExtend]
+        ) [VarDeclaration]
+      ) [VarDeclaratList]
+      StatementLst(
+        StatementLst(
+          StatementLst(
+            StatementLst(
+              StatementLst(
+                StatementLst(
+                  StatementLst(
+                    StatementLst(
+                      StatementLst(
+                        StatementLst(
+                          StatementLst(
+                            StatementLst(
+                              StatementLst(
+                                StatementLst(
+                                  StatementLst(
+                                    StatementLst(
+                                      StatementLst(
+                                        StatementLst(
+                                          StatementLst(
+                                            StatementLst(
+                                              StatementLst(
+                                                StatementLst(
+                                                  StatementLst(
+                                                    StatementLst(
+                                                      StatementLst(
+                                                        StatementLst(
+                                                          StatementLst(
+                                                            StatementLst(
+                                                              StatementLst(
+                                                                StatementLst(
+                                                                  StatementLst(
+                                                                    StatementLst(
+                                                                      StatementLst(
+                                                                        StatementLst(
+                                                                          StatementLst(
+                                                                            NoStatementList(
+                                                                            ) [NoStatementList]
+                                                                            MatchedStmt(
+                                                                              PrintStatement(
+                                                                                PrintExprOnly(
+                                                                                  ExprDeclAddop(
+                                                                                    Expr1Positive(
+                                                                                      SingleFactor(
+                                                                                        FactorDeclaration(
+                                                                                          DesignatorDeclaration(
+                                                                                           i
+                                                                                          ) [DesignatorDeclaration]
+                                                                                        ) [FactorDeclaration]
+                                                                                      ) [SingleFactor]
+                                                                                    ) [Expr1Positive]
+                                                                                  ) [ExprDeclAddop]
+                                                                                ) [PrintExprOnly]
+                                                                              ) [PrintStatement]
+                                                                            ) [MatchedStmt]
+                                                                          ) [StatementLst]
+                                                                          MatchedStmt(
+                                                                            DesignatorStatmt(
+                                                                              DesignatorAssign(
+                                                                                DesignatorDeclaration(
+                                                                                 a
+                                                                                ) [DesignatorDeclaration]
+                                                                                Assignop(
+                                                                                ) [Assignop]
+                                                                                ExprDeclAddop(
+                                                                                  Expr1Negative(
+                                                                                    SingleFactor(
+                                                                                      FactorNUMC(
+                                                                                       5
+                                                                                      ) [FactorNUMC]
+                                                                                    ) [SingleFactor]
+                                                                                  ) [Expr1Negative]
+                                                                                ) [ExprDeclAddop]
+                                                                              ) [DesignatorAssign]
+                                                                            ) [DesignatorStatmt]
+                                                                          ) [MatchedStmt]
+                                                                        ) [StatementLst]
+                                                                        MatchedStmt(
+                                                                          DesignatorStatmt(
+                                                                            DesignatorAssign(
+                                                                              DesignatorDeclaration(
+                                                                               b
+                                                                              ) [DesignatorDeclaration]
+                                                                              Assignop(
+                                                                              ) [Assignop]
+                                                                              ExprDeclAddop(
+                                                                                Expr1Positive(
+                                                                                  SingleFactor(
+                                                                                    FactorNUMC(
+                                                                                     5
+                                                                                    ) [FactorNUMC]
+                                                                                  ) [SingleFactor]
+                                                                                ) [Expr1Positive]
+                                                                              ) [ExprDeclAddop]
+                                                                            ) [DesignatorAssign]
+                                                                          ) [DesignatorStatmt]
+                                                                        ) [MatchedStmt]
+                                                                      ) [StatementLst]
+                                                                      UnmatchedStmt(
+                                                                        IfElseStatement(
+                                                                          IfHeaderStatement(
+                                                                            ConditionDecl(
+                                                                              ConditionDecl(
+                                                                                SingleCondTerm(
+                                                                                  SingleCondFact(
+                                                                                    CondFactDecl(
+                                                                                      ExprDeclAddop(
+                                                                                        Expr1Positive(
+                                                                                          SingleFactor(
+                                                                                            FactorBOOLC(
+                                                                                             false
+                                                                                            ) [FactorBOOLC]
+                                                                                          ) [SingleFactor]
+                                                                                        ) [Expr1Positive]
+                                                                                      ) [ExprDeclAddop]
+                                                                                      WithoutRelop(
+                                                                                      ) [WithoutRelop]
+                                                                                    ) [CondFactDecl]
+                                                                                  ) [SingleCondFact]
+                                                                                ) [SingleCondTerm]
+                                                                                OrOperator(
+                                                                                ) [OrOperator]
+                                                                                CondTermDecl(
+                                                                                  CondTermDecl(
+                                                                                    SingleCondFact(
+                                                                                      CondFactDecl(
+                                                                                        ExprDeclAddop(
+                                                                                          Expr1Positive(
+                                                                                            SingleFactor(
+                                                                                              FactorDeclaration(
+                                                                                                DesignatorDeclaration(
+                                                                                                 a
+                                                                                                ) [DesignatorDeclaration]
+                                                                                              ) [FactorDeclaration]
+                                                                                            ) [SingleFactor]
+                                                                                          ) [Expr1Positive]
+                                                                                        ) [ExprDeclAddop]
+                                                                                        WithRelop(
+                                                                                          GreaterThan(
+                                                                                          ) [GreaterThan]
+                                                                                          ExprDeclAddop(
+                                                                                            Expr1Positive(
+                                                                                              SingleFactor(
+                                                                                                FactorDeclaration(
+                                                                                                  DesignatorDeclaration(
+                                                                                                   b
+                                                                                                  ) [DesignatorDeclaration]
+                                                                                                ) [FactorDeclaration]
+                                                                                              ) [SingleFactor]
+                                                                                            ) [Expr1Positive]
+                                                                                          ) [ExprDeclAddop]
+                                                                                        ) [WithRelop]
+                                                                                      ) [CondFactDecl]
+                                                                                    ) [SingleCondFact]
+                                                                                    CondFactDecl(
+                                                                                      ExprDeclAddop(
+                                                                                        Expr1Positive(
+                                                                                          SingleFactor(
+                                                                                            FactorBOOLC(
+                                                                                             false
+                                                                                            ) [FactorBOOLC]
+                                                                                          ) [SingleFactor]
+                                                                                        ) [Expr1Positive]
+                                                                                      ) [ExprDeclAddop]
+                                                                                      WithoutRelop(
+                                                                                      ) [WithoutRelop]
+                                                                                    ) [CondFactDecl]
+                                                                                  ) [CondTermDecl]
+                                                                                  CondFactDecl(
+                                                                                    ExprDeclAddop(
+                                                                                      Expr1Positive(
+                                                                                        SingleFactor(
+                                                                                          FactorNUMC(
+                                                                                           5
+                                                                                          ) [FactorNUMC]
+                                                                                        ) [SingleFactor]
+                                                                                      ) [Expr1Positive]
+                                                                                    ) [ExprDeclAddop]
+                                                                                    WithRelop(
+                                                                                      GreaterThan(
+                                                                                      ) [GreaterThan]
+                                                                                      ExprDeclAddop(
+                                                                                        Expr1Positive(
+                                                                                          SingleFactor(
+                                                                                            FactorNUMC(
+                                                                                             2
+                                                                                            ) [FactorNUMC]
+                                                                                          ) [SingleFactor]
+                                                                                        ) [Expr1Positive]
+                                                                                      ) [ExprDeclAddop]
+                                                                                    ) [WithRelop]
+                                                                                  ) [CondFactDecl]
+                                                                                ) [CondTermDecl]
+                                                                              ) [ConditionDecl]
+                                                                              OrOperator(
+                                                                              ) [OrOperator]
+                                                                              SingleCondFact(
+                                                                                CondFactDecl(
+                                                                                  ExprDeclAddop(
+                                                                                    Expr1Positive(
+                                                                                      SingleFactor(
+                                                                                        FactorBOOLC(
+                                                                                         true
+                                                                                        ) [FactorBOOLC]
+                                                                                      ) [SingleFactor]
+                                                                                    ) [Expr1Positive]
+                                                                                  ) [ExprDeclAddop]
+                                                                                  WithoutRelop(
+                                                                                  ) [WithoutRelop]
+                                                                                ) [CondFactDecl]
+                                                                              ) [SingleCondFact]
+                                                                            ) [ConditionDecl]
+                                                                          ) [IfHeaderStatement]
+                                                                          ThenStmt(
+                                                                            PrintStatement(
+                                                                              PrintExprOnly(
+                                                                                ExprDeclAddop(
+                                                                                  Expr1Positive(
+                                                                                    SingleFactor(
+                                                                                      FactorNUMC(
+                                                                                       9
+                                                                                      ) [FactorNUMC]
+                                                                                    ) [SingleFactor]
+                                                                                  ) [Expr1Positive]
+                                                                                ) [ExprDeclAddop]
+                                                                              ) [PrintExprOnly]
+                                                                            ) [PrintStatement]
+                                                                          ) [ThenStmt]
+                                                                          ElsePartOfIf(
+                                                                          ) [ElsePartOfIf]
+                                                                          ElsePartStatement(
+                                                                            MatchedStmt(
+                                                                              PrintStatement(
+                                                                                PrintExprOnly(
+                                                                                  ExprDeclAddop(
+                                                                                    Expr1Positive(
+                                                                                      SingleFactor(
+                                                                                        FactorNUMC(
+                                                                                         4
+                                                                                        ) [FactorNUMC]
+                                                                                      ) [SingleFactor]
+                                                                                    ) [Expr1Positive]
+                                                                                  ) [ExprDeclAddop]
+                                                                                ) [PrintExprOnly]
+                                                                              ) [PrintStatement]
+                                                                            ) [MatchedStmt]
+                                                                          ) [ElsePartStatement]
+                                                                        ) [IfElseStatement]
+                                                                      ) [UnmatchedStmt]
+                                                                    ) [StatementLst]
+                                                                    MatchedStmt(
+                                                                      DesignatorStatmt(
+                                                                        DesignatorAssign(
+                                                                          DesignatorDeclaration(
+                                                                           bodovi
+                                                                          ) [DesignatorDeclaration]
+                                                                          Assignop(
+                                                                          ) [Assignop]
+                                                                          ExprDeclAddop(
+                                                                            Expr1Positive(
+                                                                              SingleFactor(
+                                                                                FactorNUMC(
+                                                                                 6
+                                                                                ) [FactorNUMC]
+                                                                              ) [SingleFactor]
+                                                                            ) [Expr1Positive]
+                                                                          ) [ExprDeclAddop]
+                                                                        ) [DesignatorAssign]
+                                                                      ) [DesignatorStatmt]
+                                                                    ) [MatchedStmt]
+                                                                  ) [StatementLst]
+                                                                  UnmatchedStmt(
+                                                                    IfStatement(
+                                                                      IfHeaderStatement(
+                                                                        ConditionDecl(
+                                                                          ConditionDecl(
+                                                                            SingleCondTerm(
+                                                                              CondTermDecl(
+                                                                                SingleCondFact(
+                                                                                  CondFactDecl(
+                                                                                    ExprDeclAddop(
+                                                                                      Expr1Positive(
+                                                                                        TermDecl(
+                                                                                          SingleFactor(
+                                                                                            FactorDeclaration(
+                                                                                              DesignatorDeclaration(
+                                                                                               tri
+                                                                                              ) [DesignatorDeclaration]
+                                                                                            ) [FactorDeclaration]
+                                                                                          ) [SingleFactor]
+                                                                                          MulOperator(
+                                                                                          ) [MulOperator]
+                                                                                          FactorNUMC(
+                                                                                           0
+                                                                                          ) [FactorNUMC]
+                                                                                        ) [TermDecl]
+                                                                                      ) [Expr1Positive]
+                                                                                    ) [ExprDeclAddop]
+                                                                                    WithRelop(
+                                                                                      LessThan(
+                                                                                      ) [LessThan]
+                                                                                      ExprDeclAddop(
+                                                                                        Expr1Positive(
+                                                                                          SingleFactor(
+                                                                                            FactorDeclaration(
+                                                                                              DesignatorDeclaration(
+                                                                                               a
+                                                                                              ) [DesignatorDeclaration]
+                                                                                            ) [FactorDeclaration]
+                                                                                          ) [SingleFactor]
+                                                                                        ) [Expr1Positive]
+                                                                                      ) [ExprDeclAddop]
+                                                                                    ) [WithRelop]
+                                                                                  ) [CondFactDecl]
+                                                                                ) [SingleCondFact]
+                                                                                CondFactDecl(
+                                                                                  ExprDeclAddop(
+                                                                                    Expr1Positive(
+                                                                                      SingleFactor(
+                                                                                        FactorDeclaration(
+                                                                                          DesignatorDeclaration(
+                                                                                           b
+                                                                                          ) [DesignatorDeclaration]
+                                                                                        ) [FactorDeclaration]
+                                                                                      ) [SingleFactor]
+                                                                                    ) [Expr1Positive]
+                                                                                  ) [ExprDeclAddop]
+                                                                                  WithRelop(
+                                                                                    GreaterThan(
+                                                                                    ) [GreaterThan]
+                                                                                    ExprDeclAddop(
+                                                                                      Expr1Positive(
+                                                                                        SingleFactor(
+                                                                                          FactorNUMC(
+                                                                                           4
+                                                                                          ) [FactorNUMC]
+                                                                                        ) [SingleFactor]
+                                                                                      ) [Expr1Positive]
+                                                                                    ) [ExprDeclAddop]
+                                                                                  ) [WithRelop]
+                                                                                ) [CondFactDecl]
+                                                                              ) [CondTermDecl]
+                                                                            ) [SingleCondTerm]
+                                                                            OrOperator(
+                                                                            ) [OrOperator]
+                                                                            SingleCondFact(
+                                                                              CondFactDecl(
+                                                                                ExprDeclAddop(
+                                                                                  Expr1Positive(
+                                                                                    SingleFactor(
+                                                                                      FactorBOOLC(
+                                                                                       false
+                                                                                      ) [FactorBOOLC]
+                                                                                    ) [SingleFactor]
+                                                                                  ) [Expr1Positive]
+                                                                                ) [ExprDeclAddop]
+                                                                                WithoutRelop(
+                                                                                ) [WithoutRelop]
+                                                                              ) [CondFactDecl]
+                                                                            ) [SingleCondFact]
+                                                                          ) [ConditionDecl]
+                                                                          OrOperator(
+                                                                          ) [OrOperator]
+                                                                          SingleCondFact(
+                                                                            CondFactDecl(
+                                                                              ExprDeclAddop(
+                                                                                Expr1Positive(
+                                                                                  SingleFactor(
+                                                                                    FactorDeclaration(
+                                                                                      DesignatorDeclaration(
+                                                                                       jedan
+                                                                                      ) [DesignatorDeclaration]
+                                                                                    ) [FactorDeclaration]
+                                                                                  ) [SingleFactor]
+                                                                                ) [Expr1Positive]
+                                                                              ) [ExprDeclAddop]
+                                                                              WithRelop(
+                                                                                GreaterThan(
+                                                                                ) [GreaterThan]
+                                                                                ExprDeclAddop(
+                                                                                  Expr1Positive(
+                                                                                    SingleFactor(
+                                                                                      FactorDeclaration(
+                                                                                        DesignatorDeclaration(
+                                                                                         tri
+                                                                                        ) [DesignatorDeclaration]
+                                                                                      ) [FactorDeclaration]
+                                                                                    ) [SingleFactor]
+                                                                                  ) [Expr1Positive]
+                                                                                ) [ExprDeclAddop]
+                                                                              ) [WithRelop]
+                                                                            ) [CondFactDecl]
+                                                                          ) [SingleCondFact]
+                                                                        ) [ConditionDecl]
+                                                                      ) [IfHeaderStatement]
+                                                                      MatchedStmt(
+                                                                        PrintStatement(
+                                                                          PrintExprOnly(
+                                                                            ExprDeclAddop(
+                                                                              Expr1Positive(
+                                                                                SingleFactor(
+                                                                                  FactorCHARC(
+                                                                                   c
+                                                                                  ) [FactorCHARC]
+                                                                                ) [SingleFactor]
+                                                                              ) [Expr1Positive]
+                                                                            ) [ExprDeclAddop]
+                                                                          ) [PrintExprOnly]
+                                                                        ) [PrintStatement]
+                                                                      ) [MatchedStmt]
+                                                                    ) [IfStatement]
+                                                                  ) [UnmatchedStmt]
+                                                                ) [StatementLst]
+                                                                MatchedStmt(
+                                                                  DesignatorStatmt(
+                                                                    DesignatorIncrement(
+                                                                      DesignatorDeclaration(
+                                                                       a
+                                                                      ) [DesignatorDeclaration]
+                                                                    ) [DesignatorIncrement]
+                                                                  ) [DesignatorStatmt]
+                                                                ) [MatchedStmt]
+                                                              ) [StatementLst]
+                                                              MatchedStmt(
+                                                                DesignatorStatmt(
+                                                                  DesignatorDecrement(
+                                                                    DesignatorDeclaration(
+                                                                     b
+                                                                    ) [DesignatorDeclaration]
+                                                                  ) [DesignatorDecrement]
+                                                                ) [DesignatorStatmt]
+                                                              ) [MatchedStmt]
+                                                            ) [StatementLst]
+                                                            MatchedStmt(
+                                                              DesignatorStatmt(
+                                                                DesignatorDecrement(
+                                                                  DesignatorDeclaration(
+                                                                   b
+                                                                  ) [DesignatorDeclaration]
+                                                                ) [DesignatorDecrement]
+                                                              ) [DesignatorStatmt]
+                                                            ) [MatchedStmt]
+                                                          ) [StatementLst]
+                                                          MatchedStmt(
+                                                            DesignatorStatmt(
+                                                              DesignatorAssign(
+                                                                DesignatorDeclaration(
+                                                                 c
+                                                                ) [DesignatorDeclaration]
+                                                                Assignop(
+                                                                ) [Assignop]
+                                                                ExprDeclAddop(
+                                                                  ExprAddopTerm(
+                                                                    Expr1Positive(
+                                                                      SingleFactor(
+                                                                        FactorDeclaration(
+                                                                          DesignatorDeclaration(
+                                                                           a
+                                                                          ) [DesignatorDeclaration]
+                                                                        ) [FactorDeclaration]
+                                                                      ) [SingleFactor]
+                                                                    ) [Expr1Positive]
+                                                                    Plus(
+                                                                    ) [Plus]
+                                                                    SingleFactor(
+                                                                      FactorDeclaration(
+                                                                        DesignatorDeclaration(
+                                                                         b
+                                                                        ) [DesignatorDeclaration]
+                                                                      ) [FactorDeclaration]
+                                                                    ) [SingleFactor]
+                                                                  ) [ExprAddopTerm]
+                                                                ) [ExprDeclAddop]
+                                                              ) [DesignatorAssign]
+                                                            ) [DesignatorStatmt]
+                                                          ) [MatchedStmt]
+                                                        ) [StatementLst]
+                                                        MatchedStmt(
+                                                          DesignatorStatmt(
+                                                            DesignatorAssign(
+                                                              DesignatorDeclaration(
+                                                               d
+                                                              ) [DesignatorDeclaration]
+                                                              Assignop(
+                                                              ) [Assignop]
+                                                              ExprDeclAddop(
+                                                                ExprAddopTerm(
+                                                                  ExprAddopTerm(
+                                                                    Expr1Positive(
+                                                                      TermDecl(
+                                                                        SingleFactor(
+                                                                          FactorDeclaration(
+                                                                            DesignatorDeclaration(
+                                                                             a
+                                                                            ) [DesignatorDeclaration]
+                                                                          ) [FactorDeclaration]
+                                                                        ) [SingleFactor]
+                                                                        MulOperator(
+                                                                        ) [MulOperator]
+                                                                        FactorDeclaration(
+                                                                          DesignatorDeclaration(
+                                                                           b
+                                                                          ) [DesignatorDeclaration]
+                                                                        ) [FactorDeclaration]
+                                                                      ) [TermDecl]
+                                                                    ) [Expr1Positive]
+                                                                    Minus(
+                                                                    ) [Minus]
+                                                                    SingleFactor(
+                                                                      FactorDeclaration(
+                                                                        DesignatorDeclaration(
+                                                                         c
+                                                                        ) [DesignatorDeclaration]
+                                                                      ) [FactorDeclaration]
+                                                                    ) [SingleFactor]
+                                                                  ) [ExprAddopTerm]
+                                                                  Plus(
+                                                                  ) [Plus]
+                                                                  SingleFactor(
+                                                                    FactorNUMC(
+                                                                     3
+                                                                    ) [FactorNUMC]
+                                                                  ) [SingleFactor]
+                                                                ) [ExprAddopTerm]
+                                                              ) [ExprDeclAddop]
+                                                            ) [DesignatorAssign]
+                                                          ) [DesignatorStatmt]
+                                                        ) [MatchedStmt]
+                                                      ) [StatementLst]
+                                                      MatchedStmt(
+                                                        DesignatorStatmt(
+                                                          DesignatorAssign(
+                                                            DesignatorDeclaration(
+                                                             bodovi
+                                                            ) [DesignatorDeclaration]
+                                                            Assignop(
+                                                            ) [Assignop]
+                                                            ExprDeclAddop(
+                                                              Expr1Positive(
+                                                                TermDecl(
+                                                                  SingleFactor(
+                                                                    FactorDeclaration(
+                                                                      DesignatorDeclaration(
+                                                                       bodovi
+                                                                      ) [DesignatorDeclaration]
+                                                                    ) [FactorDeclaration]
+                                                                  ) [SingleFactor]
+                                                                  MulOperator(
+                                                                  ) [MulOperator]
+                                                                  FactorExpr(
+                                                                    ExprDeclAddop(
+                                                                      ExprAddopTerm(
+                                                                        Expr1Positive(
+                                                                          SingleFactor(
+                                                                            FactorDeclaration(
+                                                                              DesignatorDeclaration(
+                                                                               z
+                                                                              ) [DesignatorDeclaration]
+                                                                            ) [FactorDeclaration]
+                                                                          ) [SingleFactor]
+                                                                        ) [Expr1Positive]
+                                                                        Minus(
+                                                                        ) [Minus]
+                                                                        TermDecl(
+                                                                          SingleFactor(
+                                                                            FactorDeclaration(
+                                                                              DesignatorDeclaration(
+                                                                               tri
+                                                                              ) [DesignatorDeclaration]
+                                                                            ) [FactorDeclaration]
+                                                                          ) [SingleFactor]
+                                                                          MulOperator(
+                                                                          ) [MulOperator]
+                                                                          FactorNUMC(
+                                                                           1
+                                                                          ) [FactorNUMC]
+                                                                        ) [TermDecl]
+                                                                      ) [ExprAddopTerm]
+                                                                    ) [ExprDeclAddop]
+                                                                  ) [FactorExpr]
+                                                                ) [TermDecl]
+                                                              ) [Expr1Positive]
+                                                            ) [ExprDeclAddop]
+                                                          ) [DesignatorAssign]
+                                                        ) [DesignatorStatmt]
+                                                      ) [MatchedStmt]
+                                                    ) [StatementLst]
+                                                    MatchedStmt(
+                                                      PrintStatement(
+                                                        PrintExprOnly(
+                                                          ExprDeclAddop(
+                                                            Expr1Positive(
+                                                              SingleFactor(
+                                                                FactorDeclaration(
+                                                                  DesignatorDeclaration(
+                                                                   bodovi
+                                                                  ) [DesignatorDeclaration]
+                                                                ) [FactorDeclaration]
+                                                              ) [SingleFactor]
+                                                            ) [Expr1Positive]
+                                                          ) [ExprDeclAddop]
+                                                        ) [PrintExprOnly]
+                                                      ) [PrintStatement]
+                                                    ) [MatchedStmt]
+                                                  ) [StatementLst]
+                                                  MatchedStmt(
+                                                    PrintStatement(
+                                                      PrintExprOnly(
+                                                        ExprDeclAddop(
+                                                          Expr1Positive(
+                                                            SingleFactor(
+                                                              FactorDeclaration(
+                                                                DesignatorDeclaration(
+                                                                 a
+                                                                ) [DesignatorDeclaration]
+                                                              ) [FactorDeclaration]
+                                                            ) [SingleFactor]
+                                                          ) [Expr1Positive]
+                                                        ) [ExprDeclAddop]
+                                                      ) [PrintExprOnly]
+                                                    ) [PrintStatement]
+                                                  ) [MatchedStmt]
+                                                ) [StatementLst]
+                                                MatchedStmt(
+                                                  PrintStatement(
+                                                    PrintExprOnly(
+                                                      ExprDeclAddop(
+                                                        Expr1Positive(
+                                                          SingleFactor(
+                                                            FactorDeclaration(
+                                                              DesignatorDeclaration(
+                                                               b
+                                                              ) [DesignatorDeclaration]
+                                                            ) [FactorDeclaration]
+                                                          ) [SingleFactor]
+                                                        ) [Expr1Positive]
+                                                      ) [ExprDeclAddop]
+                                                    ) [PrintExprOnly]
+                                                  ) [PrintStatement]
+                                                ) [MatchedStmt]
+                                              ) [StatementLst]
+                                              MatchedStmt(
+                                                PrintStatement(
+                                                  PrintExprOnly(
+                                                    ExprDeclAddop(
+                                                      Expr1Positive(
+                                                        SingleFactor(
+                                                          FactorDeclaration(
+                                                            DesignatorDeclaration(
+                                                             c
+                                                            ) [DesignatorDeclaration]
+                                                          ) [FactorDeclaration]
+                                                        ) [SingleFactor]
+                                                      ) [Expr1Positive]
+                                                    ) [ExprDeclAddop]
+                                                  ) [PrintExprOnly]
+                                                ) [PrintStatement]
+                                              ) [MatchedStmt]
+                                            ) [StatementLst]
+                                            MatchedStmt(
+                                              PrintStatement(
+                                                PrintExprOnly(
+                                                  ExprDeclAddop(
+                                                    Expr1Positive(
+                                                      SingleFactor(
+                                                        FactorDeclaration(
+                                                          DesignatorDeclaration(
+                                                           d
+                                                          ) [DesignatorDeclaration]
+                                                        ) [FactorDeclaration]
+                                                      ) [SingleFactor]
+                                                    ) [Expr1Positive]
+                                                  ) [ExprDeclAddop]
+                                                ) [PrintExprOnly]
+                                              ) [PrintStatement]
+                                            ) [MatchedStmt]
+                                          ) [StatementLst]
+                                          MatchedStmt(
+                                            PrintStatement(
+                                              PrintExprOnly(
+                                                ExprDeclAddop(
+                                                  ExprAddopTerm(
+                                                    ExprAddopTerm(
+                                                      Expr1Positive(
+                                                        SingleFactor(
+                                                          FactorDeclaration(
+                                                            DesignatorDeclaration(
+                                                             a
+                                                            ) [DesignatorDeclaration]
+                                                          ) [FactorDeclaration]
+                                                        ) [SingleFactor]
+                                                      ) [Expr1Positive]
+                                                      Plus(
+                                                      ) [Plus]
+                                                      TermDecl(
+                                                        SingleFactor(
+                                                          FactorDeclaration(
+                                                            DesignatorDeclaration(
+                                                             b
+                                                            ) [DesignatorDeclaration]
+                                                          ) [FactorDeclaration]
+                                                        ) [SingleFactor]
+                                                        MulOperator(
+                                                        ) [MulOperator]
+                                                        FactorDeclaration(
+                                                          DesignatorDeclaration(
+                                                           c
+                                                          ) [DesignatorDeclaration]
+                                                        ) [FactorDeclaration]
+                                                      ) [TermDecl]
+                                                    ) [ExprAddopTerm]
+                                                    Minus(
+                                                    ) [Minus]
+                                                    SingleFactor(
+                                                      FactorDeclaration(
+                                                        DesignatorDeclaration(
+                                                         d
+                                                        ) [DesignatorDeclaration]
+                                                      ) [FactorDeclaration]
+                                                    ) [SingleFactor]
+                                                  ) [ExprAddopTerm]
+                                                ) [ExprDeclAddop]
+                                              ) [PrintExprOnly]
+                                            ) [PrintStatement]
+                                          ) [MatchedStmt]
+                                        ) [StatementLst]
+                                        MatchedStmt(
+                                          DesignatorStatmt(
+                                            DesignatorAssign(
+                                              DesignatorDeclaration(
+                                               niz
+                                              ) [DesignatorDeclaration]
+                                              Assignop(
+                                              ) [Assignop]
+                                              ExprDeclAddop(
+                                                Expr1Positive(
+                                                  SingleFactor(
+                                                    FactorNEW(
+                                                      Type(
+                                                       int
+                                                      ) [Type]
+                                                      WithOptionalExpr(
+                                                        ExprDeclAddop(
+                                                          Expr1Positive(
+                                                            SingleFactor(
+                                                              FactorNUMC(
+                                                               5
+                                                              ) [FactorNUMC]
+                                                            ) [SingleFactor]
+                                                          ) [Expr1Positive]
+                                                        ) [ExprDeclAddop]
+                                                      ) [WithOptionalExpr]
+                                                    ) [FactorNEW]
+                                                  ) [SingleFactor]
+                                                ) [Expr1Positive]
+                                              ) [ExprDeclAddop]
+                                            ) [DesignatorAssign]
+                                          ) [DesignatorStatmt]
+                                        ) [MatchedStmt]
+                                      ) [StatementLst]
+                                      MatchedStmt(
+                                        DesignatorStatmt(
+                                          DesignatorAssign(
+                                            DesignatorDeclaration(
+                                             ch
+                                            ) [DesignatorDeclaration]
+                                            Assignop(
+                                            ) [Assignop]
+                                            ExprDeclAddop(
+                                              Expr1Positive(
+                                                SingleFactor(
+                                                  FactorNEW(
+                                                    Type(
+                                                     char
+                                                    ) [Type]
+                                                    WithOptionalExpr(
+                                                      ExprDeclAddop(
+                                                        Expr1Positive(
+                                                          SingleFactor(
+                                                            FactorNUMC(
+                                                             3
+                                                            ) [FactorNUMC]
+                                                          ) [SingleFactor]
+                                                        ) [Expr1Positive]
+                                                      ) [ExprDeclAddop]
+                                                    ) [WithOptionalExpr]
+                                                  ) [FactorNEW]
+                                                ) [SingleFactor]
+                                              ) [Expr1Positive]
+                                            ) [ExprDeclAddop]
+                                          ) [DesignatorAssign]
+                                        ) [DesignatorStatmt]
+                                      ) [MatchedStmt]
+                                    ) [StatementLst]
+                                    MatchedStmt(
+                                      DesignatorStatmt(
+                                        DesignatorAssign(
+                                          DesignatorDeclaration(
+                                           istinitost
+                                          ) [DesignatorDeclaration]
+                                          Assignop(
+                                          ) [Assignop]
+                                          ExprDeclAddop(
+                                            Expr1Positive(
+                                              SingleFactor(
+                                                FactorNEW(
+                                                  Type(
+                                                   bool
+                                                  ) [Type]
+                                                  WithOptionalExpr(
+                                                    ExprDeclAddop(
+                                                      Expr1Positive(
+                                                        SingleFactor(
+                                                          FactorNUMC(
+                                                           3
+                                                          ) [FactorNUMC]
+                                                        ) [SingleFactor]
+                                                      ) [Expr1Positive]
+                                                    ) [ExprDeclAddop]
+                                                  ) [WithOptionalExpr]
+                                                ) [FactorNEW]
+                                              ) [SingleFactor]
+                                            ) [Expr1Positive]
+                                          ) [ExprDeclAddop]
+                                        ) [DesignatorAssign]
+                                      ) [DesignatorStatmt]
+                                    ) [MatchedStmt]
+                                  ) [StatementLst]
+                                  MatchedStmt(
+                                    DesignatorStatmt(
+                                      DesignatorAssign(
+                                        ArrayDesignator(
+                                          DesArrName(
+                                           niz
+                                          ) [DesArrName]
+                                          ExprDeclAddop(
+                                            Expr1Positive(
+                                              SingleFactor(
+                                                FactorDeclaration(
+                                                  DesignatorDeclaration(
+                                                   nula
+                                                  ) [DesignatorDeclaration]
+                                                ) [FactorDeclaration]
+                                              ) [SingleFactor]
+                                            ) [Expr1Positive]
+                                          ) [ExprDeclAddop]
+                                        ) [ArrayDesignator]
+                                        Assignop(
+                                        ) [Assignop]
+                                        ExprDeclAddop(
+                                          Expr1Positive(
+                                            SingleFactor(
+                                              FactorDeclaration(
+                                                DesignatorDeclaration(
+                                                 bodovi
+                                                ) [DesignatorDeclaration]
+                                              ) [FactorDeclaration]
+                                            ) [SingleFactor]
+                                          ) [Expr1Positive]
+                                        ) [ExprDeclAddop]
+                                      ) [DesignatorAssign]
+                                    ) [DesignatorStatmt]
+                                  ) [MatchedStmt]
+                                ) [StatementLst]
+                                MatchedStmt(
+                                  DesignatorStatmt(
+                                    DesignatorAssign(
+                                      ArrayDesignator(
+                                        DesArrName(
+                                         niz
+                                        ) [DesArrName]
+                                        ExprDeclAddop(
+                                          Expr1Positive(
+                                            SingleFactor(
+                                              FactorNUMC(
+                                               1
+                                              ) [FactorNUMC]
+                                            ) [SingleFactor]
+                                          ) [Expr1Positive]
+                                        ) [ExprDeclAddop]
+                                      ) [ArrayDesignator]
+                                      Assignop(
+                                      ) [Assignop]
+                                      ExprDeclAddop(
+                                        Expr1Positive(
+                                          SingleFactor(
+                                            FactorNUMC(
+                                             3
+                                            ) [FactorNUMC]
+                                          ) [SingleFactor]
+                                        ) [Expr1Positive]
+                                      ) [ExprDeclAddop]
+                                    ) [DesignatorAssign]
+                                  ) [DesignatorStatmt]
+                                ) [MatchedStmt]
+                              ) [StatementLst]
+                              MatchedStmt(
+                                DesignatorStatmt(
+                                  DesignatorAssign(
+                                    ArrayDesignator(
+                                      DesArrName(
+                                       niz
+                                      ) [DesArrName]
+                                      ExprDeclAddop(
+                                        Expr1Positive(
+                                          SingleFactor(
+                                            FactorDeclaration(
+                                              DesignatorDeclaration(
+                                               tri
+                                              ) [DesignatorDeclaration]
+                                            ) [FactorDeclaration]
+                                          ) [SingleFactor]
+                                        ) [Expr1Positive]
+                                      ) [ExprDeclAddop]
+                                    ) [ArrayDesignator]
+                                    Assignop(
+                                    ) [Assignop]
+                                    ExprDeclAddop(
+                                      Expr1Positive(
+                                        TermDecl(
+                                          SingleFactor(
+                                            FactorDeclaration(
+                                              ArrayDesignator(
+                                                DesArrName(
+                                                 niz
+                                                ) [DesArrName]
+                                                ExprDeclAddop(
+                                                  Expr1Positive(
+                                                    SingleFactor(
+                                                      FactorNUMC(
+                                                       1
+                                                      ) [FactorNUMC]
+                                                    ) [SingleFactor]
+                                                  ) [Expr1Positive]
+                                                ) [ExprDeclAddop]
+                                              ) [ArrayDesignator]
+                                            ) [FactorDeclaration]
+                                          ) [SingleFactor]
+                                          DivOperator(
+                                          ) [DivOperator]
+                                          FactorDeclaration(
+                                            DesignatorDeclaration(
+                                             tri
+                                            ) [DesignatorDeclaration]
+                                          ) [FactorDeclaration]
+                                        ) [TermDecl]
+                                      ) [Expr1Positive]
+                                    ) [ExprDeclAddop]
+                                  ) [DesignatorAssign]
+                                ) [DesignatorStatmt]
+                              ) [MatchedStmt]
+                            ) [StatementLst]
+                            MatchedStmt(
+                              DesignatorStatmt(
+                                DesignatorIncrement(
+                                  ArrayDesignator(
+                                    DesArrName(
+                                     niz
+                                    ) [DesArrName]
+                                    ExprDeclAddop(
+                                      Expr1Positive(
+                                        SingleFactor(
+                                          FactorDeclaration(
+                                            ArrayDesignator(
+                                              DesArrName(
+                                               niz
+                                              ) [DesArrName]
+                                              ExprDeclAddop(
+                                                Expr1Positive(
+                                                  SingleFactor(
+                                                    FactorDeclaration(
+                                                      DesignatorDeclaration(
+                                                       jedan
+                                                      ) [DesignatorDeclaration]
+                                                    ) [FactorDeclaration]
+                                                  ) [SingleFactor]
+                                                ) [Expr1Positive]
+                                              ) [ExprDeclAddop]
+                                            ) [ArrayDesignator]
+                                          ) [FactorDeclaration]
+                                        ) [SingleFactor]
+                                      ) [Expr1Positive]
+                                    ) [ExprDeclAddop]
+                                  ) [ArrayDesignator]
+                                ) [DesignatorIncrement]
+                              ) [DesignatorStatmt]
+                            ) [MatchedStmt]
+                          ) [StatementLst]
+                          MatchedStmt(
+                            DesignatorStatmt(
+                              DesignatorIncrement(
+                                ArrayDesignator(
+                                  DesArrName(
+                                   niz
+                                  ) [DesArrName]
+                                  ExprDeclAddop(
+                                    Expr1Positive(
+                                      SingleFactor(
+                                        FactorNUMC(
+                                         1
+                                        ) [FactorNUMC]
+                                      ) [SingleFactor]
+                                    ) [Expr1Positive]
+                                  ) [ExprDeclAddop]
+                                ) [ArrayDesignator]
+                              ) [DesignatorIncrement]
+                            ) [DesignatorStatmt]
+                          ) [MatchedStmt]
+                        ) [StatementLst]
+                        MatchedStmt(
+                          DesignatorStatmt(
+                            DesignatorAssign(
+                              ArrayDesignator(
+                                DesArrName(
+                                 ch
+                                ) [DesArrName]
+                                ExprDeclAddop(
+                                  Expr1Positive(
+                                    SingleFactor(
+                                      FactorNUMC(
+                                       0
+                                      ) [FactorNUMC]
+                                    ) [SingleFactor]
+                                  ) [Expr1Positive]
+                                ) [ExprDeclAddop]
+                              ) [ArrayDesignator]
+                              Assignop(
+                              ) [Assignop]
+                              ExprDeclAddop(
+                                Expr1Positive(
+                                  SingleFactor(
+                                    FactorCHARC(
+                                     p
+                                    ) [FactorCHARC]
+                                  ) [SingleFactor]
+                                ) [Expr1Positive]
+                              ) [ExprDeclAddop]
+                            ) [DesignatorAssign]
+                          ) [DesignatorStatmt]
+                        ) [MatchedStmt]
+                      ) [StatementLst]
+                      MatchedStmt(
+                        DesignatorStatmt(
+                          DesignatorAssign(
+                            ArrayDesignator(
+                              DesArrName(
+                               istinitost
+                              ) [DesArrName]
+                              ExprDeclAddop(
+                                Expr1Positive(
+                                  SingleFactor(
+                                    FactorNUMC(
+                                     0
+                                    ) [FactorNUMC]
+                                  ) [SingleFactor]
+                                ) [Expr1Positive]
+                              ) [ExprDeclAddop]
+                            ) [ArrayDesignator]
+                            Assignop(
+                            ) [Assignop]
+                            ExprDeclAddop(
+                              Expr1Positive(
+                                SingleFactor(
+                                  FactorBOOLC(
+                                   true
+                                  ) [FactorBOOLC]
+                                ) [SingleFactor]
+                              ) [Expr1Positive]
+                            ) [ExprDeclAddop]
+                          ) [DesignatorAssign]
+                        ) [DesignatorStatmt]
+                      ) [MatchedStmt]
+                    ) [StatementLst]
+                    MatchedStmt(
+                      DesignatorStatmt(
+                        DesignatorAssign(
+                          ArrayDesignator(
+                            DesArrName(
+                             istinitost
+                            ) [DesArrName]
+                            ExprDeclAddop(
+                              Expr1Positive(
+                                SingleFactor(
+                                  FactorNUMC(
+                                   1
+                                  ) [FactorNUMC]
+                                ) [SingleFactor]
+                              ) [Expr1Positive]
+                            ) [ExprDeclAddop]
+                          ) [ArrayDesignator]
+                          Assignop(
+                          ) [Assignop]
+                          ExprDeclAddop(
+                            Expr1Positive(
+                              SingleFactor(
+                                FactorBOOLC(
+                                 false
+                                ) [FactorBOOLC]
+                              ) [SingleFactor]
+                            ) [Expr1Positive]
+                          ) [ExprDeclAddop]
+                        ) [DesignatorAssign]
+                      ) [DesignatorStatmt]
+                    ) [MatchedStmt]
+                  ) [StatementLst]
+                  MatchedStmt(
+                    PrintStatement(
+                      PrintExprOnly(
+                        ExprDeclAddop(
+                          Expr1Positive(
+                            SingleFactor(
+                              FactorDeclaration(
+                                ArrayDesignator(
+                                  DesArrName(
+                                   niz
+                                  ) [DesArrName]
+                                  ExprDeclAddop(
+                                    Expr1Positive(
+                                      SingleFactor(
+                                        FactorNUMC(
+                                         1
+                                        ) [FactorNUMC]
+                                      ) [SingleFactor]
+                                    ) [Expr1Positive]
+                                  ) [ExprDeclAddop]
+                                ) [ArrayDesignator]
+                              ) [FactorDeclaration]
+                            ) [SingleFactor]
+                          ) [Expr1Positive]
+                        ) [ExprDeclAddop]
+                      ) [PrintExprOnly]
+                    ) [PrintStatement]
+                  ) [MatchedStmt]
+                ) [StatementLst]
+                MatchedStmt(
+                  PrintStatement(
+                    PrintExprOnly(
+                      ExprDeclAddop(
+                        Expr1Positive(
+                          SingleFactor(
+                            FactorDeclaration(
+                              ArrayDesignator(
+                                DesArrName(
+                                 ch
+                                ) [DesArrName]
+                                ExprDeclAddop(
+                                  Expr1Positive(
+                                    SingleFactor(
+                                      FactorNUMC(
+                                       0
+                                      ) [FactorNUMC]
+                                    ) [SingleFactor]
+                                  ) [Expr1Positive]
+                                ) [ExprDeclAddop]
+                              ) [ArrayDesignator]
+                            ) [FactorDeclaration]
+                          ) [SingleFactor]
+                        ) [Expr1Positive]
+                      ) [ExprDeclAddop]
+                    ) [PrintExprOnly]
+                  ) [PrintStatement]
+                ) [MatchedStmt]
+              ) [StatementLst]
+              MatchedStmt(
+                PrintStatement(
+                  PrintExprOnly(
+                    ExprDeclAddop(
+                      Expr1Positive(
+                        SingleFactor(
+                          FactorDeclaration(
+                            ArrayDesignator(
+                              DesArrName(
+                               niz
+                              ) [DesArrName]
+                              ExprDeclAddop(
+                                Expr1Positive(
+                                  SingleFactor(
+                                    FactorDeclaration(
+                                      DesignatorDeclaration(
+                                       tri
+                                      ) [DesignatorDeclaration]
+                                    ) [FactorDeclaration]
+                                  ) [SingleFactor]
+                                ) [Expr1Positive]
+                              ) [ExprDeclAddop]
+                            ) [ArrayDesignator]
+                          ) [FactorDeclaration]
+                        ) [SingleFactor]
+                      ) [Expr1Positive]
+                    ) [ExprDeclAddop]
+                  ) [PrintExprOnly]
+                ) [PrintStatement]
+              ) [MatchedStmt]
+            ) [StatementLst]
+            MatchedStmt(
+              PrintStatement(
+                PrintExprOnly(
+                  ExprDeclAddop(
+                    Expr1Positive(
+                      SingleFactor(
+                        FactorDeclaration(
+                          ArrayDesignator(
+                            DesArrName(
+                             niz
+                            ) [DesArrName]
+                            ExprDeclAddop(
+                              Expr1Positive(
+                                TermDecl(
+                                  SingleFactor(
+                                    FactorDeclaration(
+                                      ArrayDesignator(
+                                        DesArrName(
+                                         niz
+                                        ) [DesArrName]
+                                        ExprDeclAddop(
+                                          Expr1Positive(
+                                            SingleFactor(
+                                              FactorDeclaration(
+                                                DesignatorDeclaration(
+                                                 nula
+                                                ) [DesignatorDeclaration]
+                                              ) [FactorDeclaration]
+                                            ) [SingleFactor]
+                                          ) [Expr1Positive]
+                                        ) [ExprDeclAddop]
+                                      ) [ArrayDesignator]
+                                    ) [FactorDeclaration]
+                                  ) [SingleFactor]
+                                  DivOperator(
+                                  ) [DivOperator]
+                                  FactorNUMC(
+                                   5
+                                  ) [FactorNUMC]
+                                ) [TermDecl]
+                              ) [Expr1Positive]
+                            ) [ExprDeclAddop]
+                          ) [ArrayDesignator]
+                        ) [FactorDeclaration]
+                      ) [SingleFactor]
+                    ) [Expr1Positive]
+                  ) [ExprDeclAddop]
+                ) [PrintExprOnly]
+              ) [PrintStatement]
+            ) [MatchedStmt]
+          ) [StatementLst]
+          MatchedStmt(
+            PrintStatement(
+              PrintExprOnly(
+                ExprDeclAddop(
+                  Expr1Positive(
+                    SingleFactor(
+                      FactorDeclaration(
+                        ArrayDesignator(
+                          DesArrName(
+                           istinitost
+                          ) [DesArrName]
+                          ExprDeclAddop(
+                            Expr1Positive(
+                              SingleFactor(
+                                FactorDeclaration(
+                                  DesignatorDeclaration(
+                                   nula
+                                  ) [DesignatorDeclaration]
+                                ) [FactorDeclaration]
+                              ) [SingleFactor]
+                            ) [Expr1Positive]
+                          ) [ExprDeclAddop]
+                        ) [ArrayDesignator]
+                      ) [FactorDeclaration]
+                    ) [SingleFactor]
+                  ) [Expr1Positive]
+                ) [ExprDeclAddop]
+              ) [PrintExprOnly]
+            ) [PrintStatement]
+          ) [MatchedStmt]
+        ) [StatementLst]
+        MatchedStmt(
+          PrintStatement(
+            PrintExprOnly(
+              ExprDeclAddop(
+                Expr1Positive(
+                  SingleFactor(
+                    FactorDeclaration(
+                      ArrayDesignator(
+                        DesArrName(
+                         istinitost
+                        ) [DesArrName]
+                        ExprDeclAddop(
+                          Expr1Positive(
+                            TermDecl(
+                              TermDecl(
+                                SingleFactor(
+                                  FactorDeclaration(
+                                    DesignatorDeclaration(
+                                     jedan
+                                    ) [DesignatorDeclaration]
+                                  ) [FactorDeclaration]
+                                ) [SingleFactor]
+                                MulOperator(
+                                ) [MulOperator]
+                                FactorNUMC(
+                                 4
+                                ) [FactorNUMC]
+                              ) [TermDecl]
+                              ModOperator(
+                              ) [ModOperator]
+                              FactorNUMC(
+                               3
+                              ) [FactorNUMC]
+                            ) [TermDecl]
+                          ) [Expr1Positive]
+                        ) [ExprDeclAddop]
+                      ) [ArrayDesignator]
+                    ) [FactorDeclaration]
+                  ) [SingleFactor]
+                ) [Expr1Positive]
+              ) [ExprDeclAddop]
+            ) [PrintExprOnly]
+          ) [PrintStatement]
+        ) [MatchedStmt]
+      ) [StatementLst]
+    ) [MethodDeclaration]
+  ) [MethodDeclarationList]
+) [Program]
+INFO  16:18:19,120 - ===================================
+INFO  16:18:19,189 - ProgramName obidjeno i scope otvoren!
+INFO  16:18:19,189 - Konstanta jedan = 1 deklarisana na liniji 2 na liniji 2
+INFO  16:18:19,189 - Konstanta tri = 3 deklarisana na liniji 2 na liniji 2
+INFO  16:18:19,189 - Konstanta z = 5 deklarisana na liniji 2 na liniji 2
+INFO  16:18:19,189 - Konstanta nula = 0 deklarisana na liniji 2 na liniji 2
+INFO  16:18:19,189 - Konstanta x = 4 deklarisana na liniji 2 na liniji 2
+INFO  16:18:19,189 - Deklarisana promjenljiva d na liniji 3
+INFO  16:18:19,189 - Deklarisana promjenljiva c na liniji 3
+INFO  16:18:19,189 - Deklarisana promjenljiva b na liniji 3
+INFO  16:18:19,190 - Deklarisana promjenljiva a na liniji 3
+INFO  16:18:19,190 - VarDecl cvor posjecen
+INFO  16:18:19,190 - Funkcija kes se obradjuje na liniji 5
+INFO  16:18:19,190 - Tip print izraza je: 1
+INFO  16:18:19,190 - Print metoda posjecena na liniji 6 na liniji 6
+INFO  16:18:19,190 - Tip print izraza je: 2
+INFO  16:18:19,190 - Print metoda posjecena na liniji 7 na liniji 7
+INFO  16:18:19,190 - Funkcija main se obradjuje na liniji 10
+INFO  16:18:19,190 - Deklarisana promjenljiva i na liniji 11
+INFO  16:18:19,190 - VarDecl cvor posjecen
+INFO  16:18:19,190 - Deklarisana promjenljiva bodovi na liniji 12
+INFO  16:18:19,190 - VarDecl cvor posjecen
+INFO  16:18:19,190 - Deklarisan niz niz[] na liniji 13
+INFO  16:18:19,190 - VarDecl cvor posjecen
+INFO  16:18:19,191 - Deklarisan niz ch[] na liniji 14
+INFO  16:18:19,191 - VarDecl cvor posjecen
+INFO  16:18:19,191 - Deklarisan niz istinitost[] na liniji 15
+INFO  16:18:19,191 - VarDecl cvor posjecen
+INFO  16:18:19,191 - Tip print izraza je: 2
+INFO  16:18:19,191 - Print metoda posjecena na liniji 17 na liniji 17
+INFO  16:18:19,191 - Dodjela vrijednosti obavljena uspjesno, na liniji 18 na liniji 18
+INFO  16:18:19,191 - Dodjela vrijednosti obavljena uspjesno, na liniji 19 na liniji 19
+INFO  16:18:19,191 - IfHeaderVisited
+INFO  16:18:19,191 - Tip print izraza je: 1
+INFO  16:18:19,191 - Print metoda posjecena na liniji 20 na liniji 20
+INFO  16:18:19,191 - Tip print izraza je: 1
+INFO  16:18:19,191 - Print metoda posjecena na liniji 21 na liniji 21
+INFO  16:18:19,191 - IF-ELSE statement visited
+INFO  16:18:19,191 - Dodjela vrijednosti obavljena uspjesno, na liniji 22 na liniji 22
+INFO  16:18:19,192 - IfHeaderVisited
+INFO  16:18:19,192 - Tip print izraza je: 2
+INFO  16:18:19,192 - Print metoda posjecena na liniji 23 na liniji 23
+INFO  16:18:19,192 - IF statement visited
+INFO  16:18:19,192 - Inkrementiranje promjenljive obavljeno uspjesno, na liniji 24 na liniji 24
+INFO  16:18:19,192 - Dekrementiranje promjenljive obavljeno uspjesno, na liniji 25 na liniji 25
+INFO  16:18:19,192 - Dekrementiranje promjenljive obavljeno uspjesno, na liniji 26 na liniji 26
+INFO  16:18:19,192 - Dodjela vrijednosti obavljena uspjesno, na liniji 27 na liniji 27
+INFO  16:18:19,192 - Dodjela vrijednosti obavljena uspjesno, na liniji 28 na liniji 28
+INFO  16:18:19,192 - Dodjela vrijednosti obavljena uspjesno, na liniji 29 na liniji 29
+INFO  16:18:19,192 - Tip print izraza je: 1
+INFO  16:18:19,192 - Print metoda posjecena na liniji 30 na liniji 30
+INFO  16:18:19,192 - Tip print izraza je: 1
+INFO  16:18:19,192 - Print metoda posjecena na liniji 31 na liniji 31
+INFO  16:18:19,192 - Tip print izraza je: 1
+INFO  16:18:19,192 - Print metoda posjecena na liniji 32 na liniji 32
+INFO  16:18:19,192 - Tip print izraza je: 1
+INFO  16:18:19,192 - Print metoda posjecena na liniji 33 na liniji 33
+INFO  16:18:19,192 - Tip print izraza je: 1
+INFO  16:18:19,192 - Print metoda posjecena na liniji 34 na liniji 34
+INFO  16:18:19,192 - Tip print izraza je: 1
+INFO  16:18:19,192 - Print metoda posjecena na liniji 35 na liniji 35
+INFO  16:18:19,192 - Dodjela vrijednosti obavljena uspjesno, na liniji 36 na liniji 36
+INFO  16:18:19,192 - Dodjela vrijednosti obavljena uspjesno, na liniji 37 na liniji 37
+INFO  16:18:19,192 - Dodjela vrijednosti obavljena uspjesno, na liniji 38 na liniji 38
+INFO  16:18:19,192 - Dodjela vrijednosti obavljena uspjesno, na liniji 39 na liniji 39
+INFO  16:18:19,192 - Dodjela vrijednosti obavljena uspjesno, na liniji 40 na liniji 40
+INFO  16:18:19,192 - Dodjela vrijednosti obavljena uspjesno, na liniji 41 na liniji 41
+INFO  16:18:19,194 - Inkrementiranje promjenljive obavljeno uspjesno, na liniji 42 na liniji 42
+INFO  16:18:19,194 - Inkrementiranje promjenljive obavljeno uspjesno, na liniji 43 na liniji 43
+INFO  16:18:19,194 - Dodjela vrijednosti obavljena uspjesno, na liniji 44 na liniji 44
+INFO  16:18:19,194 - Dodjela vrijednosti obavljena uspjesno, na liniji 45 na liniji 45
+INFO  16:18:19,194 - Dodjela vrijednosti obavljena uspjesno, na liniji 46 na liniji 46
+INFO  16:18:19,194 - Tip print izraza je: 1
+INFO  16:18:19,194 - Print metoda posjecena na liniji 47 na liniji 47
+INFO  16:18:19,194 - Tip print izraza je: 2
+INFO  16:18:19,194 - Print metoda posjecena na liniji 48 na liniji 48
+INFO  16:18:19,194 - Tip print izraza je: 1
+INFO  16:18:19,194 - Print metoda posjecena na liniji 49 na liniji 49
+INFO  16:18:19,194 - Tip print izraza je: 1
+INFO  16:18:19,194 - Print metoda posjecena na liniji 50 na liniji 50
+INFO  16:18:19,194 - Tip print izraza je: 5
+INFO  16:18:19,194 - Print metoda posjecena na liniji 51 na liniji 51
+INFO  16:18:19,194 - Tip print izraza je: 5
+INFO  16:18:19,194 - Print metoda posjecena na liniji 52 na liniji 52
+INFO  16:18:19,194 - Program obidjen, simboli uvezani i scope zatvoren! Ukupno uvezanih simbola: 4
+INFO  16:18:19,194 - ===================================
+INFO  16:18:19,323 - Parsiranje uspjesno zavrseno!

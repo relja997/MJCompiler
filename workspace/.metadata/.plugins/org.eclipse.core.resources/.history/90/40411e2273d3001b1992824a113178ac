@@ -1,0 +1,53 @@
+program MJProgram
+	const int x = 4, nula = 0, z = 5, tri = 3, jedan = 1;
+	int a, b, c, d;
+{
+	void kes() {
+		print(3);
+		print('c');
+	}
+	
+	void main()
+		int bodovi;
+		int niz[];
+		char ch[];
+		bool istinitost[];
+	{
+		a = -5;
+		b = 5;
+		if(false || a < b && false && 5 > 2 || false || b < a) print(9);
+		else print(4);
+		bodovi = 6;
+		if(tri * 0 < a && b > 4 || false || jedan > tri) print('c');
+		a++;
+		b--;
+		b--;
+		c = a + b;
+		d = a * b - c + 3;
+		bodovi = bodovi * (z - tri * 1);
+		print(bodovi);
+		print(a);
+		print(b);
+		print(c);
+		print(d);
+		print(a+b*c-d);
+		niz = new int[5];
+		print(len(niz));
+		ch = new char[3];
+		istinitost = new bool[3];
+		niz[nula] = bodovi;
+		niz[1] = 3;
+		niz[tri] = niz[1] / tri;
+		niz[niz[jedan]]++;
+		niz[1]++;
+		ch[0] = 'p';
+		istinitost[0] = true;
+		istinitost[1] = false;
+		print(niz[1]);
+		print(ch[0]);
+		print(niz[tri]);
+		print(niz[niz[nula] / 5]);
+		print(istinitost[nula]);
+		print(istinitost[jedan * 4%3]);
+	}
+}
